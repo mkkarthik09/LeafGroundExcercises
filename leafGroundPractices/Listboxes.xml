@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="ListBoxes" verbose="4">
+<test name="Listboxoptions">
+<groups>
+<run>
+<include  name="Intial"></include>
+<include name="final"></include>
+</run>
+</groups>
+<classes>
+<class name="leafGround.ListBoxes">
+</class>
+</classes>
+</test>
+</suite>
